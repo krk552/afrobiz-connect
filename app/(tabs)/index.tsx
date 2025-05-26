@@ -432,7 +432,7 @@ export default function HomeScreen() {
               </View>
             </View>
           </LinearGradient>
-        </View>
+    </View>
 
         {/* Bottom padding for tab bar */}
         <View style={{ height: 120 }} />
